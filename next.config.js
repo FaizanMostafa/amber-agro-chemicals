@@ -8,3 +8,10 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+
+
+
+
+
+
+// root
